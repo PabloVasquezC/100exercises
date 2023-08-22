@@ -1,0 +1,5 @@
+List/Array = [] = ordered, mutable (in some lenguajes), homogeneous, dinamic size, random acces 
+
+tuple = () = orderer, inmutable, heterogeneous, fixed size
+
+diccionaries/map/associative array = {} = key-value pairs, unordered, fast lookups, dinamic sizing, heterogeneous values, 
